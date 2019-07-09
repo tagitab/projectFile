@@ -3,8 +3,8 @@ html
 font-family: Copperplate Gothic, Lato;     
 }
 
-span{font-family: Copperplate Gothic;}
+span{font-family: Copperplate Gothic; color:red;}
 
 #wspan{
 font-family: Copperplate Gothic;
-color:red;}
+color:;}
